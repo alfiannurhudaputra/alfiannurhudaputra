@@ -11,7 +11,7 @@
 - 📫 How to reach me: email me at **alfiannurhudaputra@gmail.com**;
 
 ### ⚙️ Languages Skills
-![HTML](https://img.shields.io/badge/HTML-Static-blue?logo=HTML&labelColor=353535) ![CSS](https://img.shields.io/badge/CSS-Static-blue?logo=CSS&labelColor=353535) ![JavaScript](https://img.shields.io/badge/JavaScript-gray.svg?logo=JavaScript&labelColor=353535) ![Bootstrap](https://img.shields.io/badge/Bootstrap-gray.svg?logo=Bootstrap&labelColor=353535) 
+![HTML](https://img.shields.io/badge/HTML-Static-blue?logo=html5&labelColor=353535) ![CSS](https://img.shields.io/badge/CSS-Static-blue?logo=css3&labelColor=353535) ![JavaScript](https://img.shields.io/badge/JavaScript-gray.svg?logo=JavaScript&labelColor=353535) ![Bootstrap](https://img.shields.io/badge/Bootstrap-gray.svg?logo=Bootstrap&labelColor=353535) 
 
 ### 🖳 Machine
 [![OS - Linux](https://img.shields.io/badge/OS-Linux-blue?logo=linux&logoColor=white)](https://www.linux.org/ "Go to Linux homepage") [![OS - Windows](https://img.shields.io/badge/OS-Windows-blue?logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows/ "Go to Windows homepage")
