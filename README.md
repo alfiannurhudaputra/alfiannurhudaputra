@@ -6,6 +6,6 @@
 ### Personal Stuff
 - 🔭 I’m currently working as a Freelancer;
 - 👀 I'm interested in Front End Developer;
-- :sunny: My goal is to become a Software Engineer;
+- :rocket: My goal is to become a Software Engineer;
 - 🌱 I’m currently learning HTML/CSS and JavaScript;
 - 📫 How to reach me: email me at **alfiannurhudaputra@gmail.com**;
