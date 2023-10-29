@@ -8,7 +8,7 @@
 - 👀 I'm interested in Front End Developer;
 - :rocket: My goal is to become a Fullstack Developer;
 - 🌱 I’m currently learning HTML/CSS and JavaScript;
-- 📫 How to reach me: email me at **alfiannurhudaputra@gmail.com**;
+- 📫 How to reach me: email me at **alfian73.dev@gmail.com**;
 
 ### ⚙️ Languages Skill
 ![HTML](https://img.shields.io/badge/HTML5-5A5A5A?logo=html5&labelColor=353535) ![CSS](https://img.shields.io/badge/CSS3-5A5A5A?logo=css3&labelColor=353535) ![JavaScript](https://img.shields.io/badge/JavaScript-gray.svg?logo=JavaScript&labelColor=353535) ![Bootstrap](https://img.shields.io/badge/Bootstrap-gray.svg?logo=Bootstrap&labelColor=353535) 
