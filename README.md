@@ -6,7 +6,6 @@
 ### :page_facing_up: Personal Stuff
 - 🔭 I’m currently working as a Freelancer;
 - 👀 I'm interested in Front End Developer;
-- 🌱 I’m currently learning HTML/CSS and JavaScript;
 - 📫 How to reach me: email me at **alfian73.dev@gmail.com**;
 
 ### ⚙️ Languages Skill
