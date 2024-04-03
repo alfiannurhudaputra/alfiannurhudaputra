@@ -4,7 +4,6 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=alfiannurhudaputra" alt="alfiannurhudaputra" /></p>
 
 ### :page_facing_up: Personal Stuff
-- 🔭 I’m currently working as a Freelancer;
 - 👀 I'm interested in Front End Developer;
 - 📫 How to reach me: email me at **alfian73.dev@gmail.com**;
 
